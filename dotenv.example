@@ -17,6 +17,13 @@ HTTP_PORT = ":8080"
 
 # --- FOR Plugins ---
 
+# 插件系统调度使用 gpt4
+# PLUGIN_OPENAI_MODEL = "gpt-4"
+
+## enable agi.cn search
+# ENABLE_AGICN_SEARCH = "true"
+
+
 ## Google Search
 GOOGLE_ENGINE_ID = ""
 GOOGLE_TOKEN = ""
